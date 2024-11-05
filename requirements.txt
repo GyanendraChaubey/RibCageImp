@@ -1,6 +1,6 @@
 nibabel
 numpy
-segmentation_models_pytorch_3d
+segmentation-models-pytorch
 sklearn
 scipy
 torch
@@ -15,5 +15,4 @@ torchio
 glob2
 pynrrd
 connected-components-3d
-os-sys
 monai
