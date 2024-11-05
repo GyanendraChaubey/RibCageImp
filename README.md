@@ -82,4 +82,4 @@ We are continuously working on improving the model’s performance. This include
 
 ## License
 
-This project is licensed - see the [LICENSE](LICENSE) file for details.
+This project is licensed - see the [LICENSE](LICENSE.txt) file for details.
