@@ -1,0 +1,46 @@
+LICENSE AGREEMENT FOR RibCageImp
+
+Effective Date: 05/11/2024
+
+By accessing or viewing the source code in this repository (the “Code”), you acknowledge and agree to the following terms and conditions set forth by the Author (“Author”):
+
+1. Ownership and Copyright
+The Code, including all associated files, content, documentation, and related materials, is the exclusive property of the Author and is protected by copyright and other intellectual property laws. All rights are reserved by the Author.
+
+2. No Permission to Use, Copy, Modify, or Distribute
+Except as explicitly authorized in writing by the Author:
+
+Use: You may not use this Code in any form, whether directly or indirectly.
+Copying and Reproduction: You may not copy, duplicate, reproduce, or otherwise distribute the Code in any form.
+Modification: You may not alter, edit, adapt, or create derivative works of the Code.
+Distribution: You may not distribute, sublicense, or otherwise transfer any rights in the Code to any other party.
+3. Unauthorized Derivative Works
+Any modification, adaptation, or creation of derivative works based on this Code is strictly prohibited without prior written permission from the Author.
+
+4. No Reverse Engineering
+You may not decompile, reverse engineer, disassemble, or otherwise attempt to derive the source code from any compiled or obfuscated version of this Code.
+
+5. No Commercial Use
+Under no circumstances may this Code be used for any commercial purpose, directly or indirectly, without prior written authorization from the Author.
+
+6. Indemnification
+Any party that uses, reproduces, distributes, or modifies the Code in violation of this License agrees to indemnify and hold the Author harmless against any and all liabilities, damages, losses, and expenses arising out of such unauthorized actions.
+
+7. Governing Law and Enforcement
+This License shall be governed by and construed in accordance with the laws of [Country/State]. Any disputes arising from this License shall be resolved exclusively in the courts of [Country/State]. The Author reserves the right to enforce the terms of this License, including but not limited to seeking legal remedies such as injunctive relief, damages, and attorney’s fees, for any unauthorized use, reproduction, distribution, or modification of the Code.
+
+8. Damages
+Any unauthorized use, reproduction, distribution, or modification of the Code may result in damages, penalties, and legal fees, which the unauthorized party may be liable for in full.
+
+9. Acceptance
+By accessing, viewing, or downloading any part of the Code, you agree to be bound by the terms and conditions of this License.
+
+10. No Warranty and Limitation of Liability
+The Code is provided “as-is” without any warranties of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. In no event shall the Author be liable for any claim, damages, or other liability arising from or in connection with the use or other dealings in the Code.
+
+11. Contact Information
+For permissions, exceptions, or inquiries regarding this Code, please contact:
+
+Email: gyanendrachaubey68@gmail.com
+Gyanendra Chaubey
+
