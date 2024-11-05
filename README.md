@@ -40,7 +40,7 @@ The process of defect creation is outlined in the figure below:
 
     Run the following notebook:
     ```bash
-    run Segmentation.ipynb
+    Segmentation.ipynb
     ```
 
 2. **Defect Creation**: After segmentation, create defects according to your specifications (single or multiple).
